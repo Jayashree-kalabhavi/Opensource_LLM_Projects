@@ -1,0 +1,11 @@
+ollama
+langchain-community
+python-dotenv
+streamlit
+bs4
+requests 
+beautifulsoup4
+transformers
+langchain-chroma
+langchain-core
+ipykernel
