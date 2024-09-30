@@ -37,7 +37,7 @@ def generate_response(question,llm,temperature,max_tokens):
 ## Streamlit Integration 
 
 ##Title of the app
-st.title("Q&AA chatbot with Llama3.1")
+st.title("Q&A chatbot with Llama3.1")
 
 ##Drop Down to select model
 llm = st.sidebar.selectbox("select Opensource Model",["llama3.1:8b", "llama3.1:70b","llama3.1:405b"])

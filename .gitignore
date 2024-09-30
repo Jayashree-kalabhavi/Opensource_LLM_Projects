@@ -133,6 +133,7 @@ venv.bak/
 #  ignore venv in Llama_Q_A_chatbot directory
 Llama_Q_A_chatbot/venv/
 
+
 # Spyder project settings
 .spyderproject
 .spyproject
