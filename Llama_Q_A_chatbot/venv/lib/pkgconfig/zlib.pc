@@ -1,0 +1,13 @@
+prefix=/Users/jayashreekalabhavi/Documents/Langchain/1-Q&A chatbot/venv
+exec_prefix=/Users/jayashreekalabhavi/Documents/Langchain/1-Q&A chatbot/venv
+libdir=/Users/jayashreekalabhavi/Documents/Langchain/1-Q&A chatbot/venv/lib
+sharedlibdir=/Users/jayashreekalabhavi/Documents/Langchain/1-Q&A chatbot/venv/lib
+includedir=/Users/jayashreekalabhavi/Documents/Langchain/1-Q&A chatbot/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
