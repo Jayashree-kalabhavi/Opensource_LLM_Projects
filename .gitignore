@@ -135,6 +135,10 @@ Llama_Q_A_chatbot/venv/
 chromastore/
 chroma.sqlite3
 
+RAG_Q&A_Chatbot/b4073cb1-d715-413f-b23b-7294e90c7309/
+RAG_Q&A_Chatbot/chroma_store/chroma.sqlite3
+
+
 
 
 # Spyder project settings
