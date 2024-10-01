@@ -1,0 +1,7 @@
+ipykernel
+langchain-community
+python-dotenv
+streamlit
+langchain-chroma
+langchain-core
+docx2txt
