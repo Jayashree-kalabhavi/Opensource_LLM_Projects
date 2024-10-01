@@ -132,6 +132,9 @@ env.bak/
 venv.bak/
 #  ignore venv in Llama_Q_A_chatbot directory
 Llama_Q_A_chatbot/venv/
+chromastore/
+chroma.sqlite3
+
 
 
 # Spyder project settings
